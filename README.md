@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js, Next.js, Three.js, ThreeJS Journey**
 
-- 👯 I’m actively looking to collaborate on **Fulltiem / Remote / Freelance Jobs**
+- 👯 I’m actively looking to collaborate on **Fulltime / Remote / Freelance Jobs**
 
 - 👨‍💻 My projects are available at [https://github.com/faridulhassan](https://github.com/faridulhassan)
 
