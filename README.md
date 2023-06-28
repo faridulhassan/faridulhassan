@@ -34,6 +34,5 @@
 5. https://www.innstarbd.com (Real Estate Website) 
 6. https://www.shantasecurities.com (Financial Services Company Website)
 7. https://threejs-globe-with-persons-images.netlify.app (Three.js Realistic Earth with glowing effect and added peoples in different lat-lng)
-8. 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faridulhassan&show_icons=true&locale=en&layout=compact" alt="faridulhassan" /></p>
