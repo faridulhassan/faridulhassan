@@ -11,7 +11,8 @@
 
 - 💬 Ask me about **Frontend, HTML, CSS, JavaScript, React, Vue, Greensock (GSAP), Bootstrap, jQuery, jQuery Plugins, Web Map, HTML5 Canvas, SVG**
 
-- 📫 Reach me **faridul940@gmail.com**
+- 📫 Email: **faridul940@gmail.com**
+- 📫 Upwork [https://www.upwork.com/freelancers/~0166c25fe6338aa8c3](https://www.upwork.com/freelancers/~0166c25fe6338aa8c3) 
 
 - ⚡ Fun fact **I love working with Beautiful Web Animations and Modern Frontend Web Applications. I spent lot of my times in behind them**
 
